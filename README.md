@@ -7,6 +7,7 @@
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 
+        
   # My Study Record
   ## With Rust, Python, Arduino, ROS, And C/C++, etc
   ### Now I study computer programming in [Kg Kairos](https://kg-kairos.kr) and [Naver Boost Course](https://boostcourse.org).
