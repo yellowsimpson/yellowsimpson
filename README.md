@@ -36,6 +36,22 @@
   <img src="https://img.shields.io/badge/C%2B%2B%20-%20%2300599C?style=for-the-badge&logo=C%2B%2B">
 </div>
 <br/>
+
+### Record
+<div align="center">
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white">
+  <img src="https://img.shields.io/badge/notion-%23000000?style=for-the-badge&logo=notion&logoColor=white">
+</div>
+<br/>
+
+### Others
+<div align="center">
+  <img src="https://img.shields.io/badge/ubuntu-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white">
+  <img src="https://img.shields.io/badge/Fusion360-%23000000?style=for-the-badge&logo=autodesk">
+</div>
+<br/>
     </div>
     <div style="text-align: left;">
     <div style="text-align: left;">  </div>  <br> 
