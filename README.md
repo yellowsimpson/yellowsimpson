@@ -26,7 +26,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
   <img src="https://img.shields.io/badge/openCV-11557c.svg?style=for-the-badge&logo=openCV&logoColor=white">
-  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/TensorFlow%20-%20FF6F00?style=for-the-badge&logo=tensorflow">
 </div>
@@ -37,7 +36,6 @@
   <img src="https://img.shields.io/badge/ROS 1,2-22314E?style=for-the-badge&logo=ROS&logoColor=white">
   <img src="https://img.shields.io/badge/STM32%20-%20%2303234B?style=for-the-badge&logo=stmicroelectronics">
   <img src="https://img.shields.io/badge/Arduino-00878F.svg?style=for-the-badge&logo=Arduino&logoColor=white">
-  <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324">
   <img src="https://img.shields.io/badge/C%20-%20%23A8B9CC?style=for-the-badge&logo=C&logoColor=00599C">
   <img src="https://img.shields.io/badge/C%2B%2B%20-%20%2300599C?style=for-the-badge&logo=C%2B%2B">
 </div>
