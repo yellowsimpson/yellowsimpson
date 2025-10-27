@@ -10,7 +10,8 @@
         
   # My Study Record
   ## With Rust, Python, Arduino, ROS, And C/C++, etc
-  ###I study computer programming in [Kg Kairos](https://kg-kairos.kr).
+  ### I study computer programming in [Kg Kairos](https://kg-kairos.kr).
+  ### Now, I'm study in XYZ kernel academy
 </div>
 <div align="center">
         
