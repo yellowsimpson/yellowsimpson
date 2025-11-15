@@ -40,6 +40,18 @@
 </div>
 <br/>
 
+### OS
+<div>
+  <a href="https://www.microsoft.com/ko-kr/software-download">
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>
+  <a href="https://releases.ubuntu.com/?_ga=2.104906251.921670702.1610175351-5946633.1609902545">
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
+  <a href="https://www.docker.com/">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
+  <a href="https://developer.nvidia.com/sdk-manager">
+    <img src="https://img.shields.io/badge/SDK Manager-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/></a>
+</div>
+
 ### Embedded
 <div align="center">
   <a href="https://docs.ros.org/en/humble/Installation.html">
@@ -74,8 +86,6 @@
 
 ### Others
 <div align="center">
-  <a href="https://releases.ubuntu.com/?_ga=2.104906251.921670702.1610175351-5946633.1609902545">
-     <img src="https://img.shields.io/badge/ubuntu-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
   <a href="https://www.autodesk.com/kr/products/fusion-360/personal">  
      <img src="https://img.shields.io/badge/Fusion360-%23000000?style=for-the-badge&logo=autodesk"></a>
   <a href="https://www.mathworks.com/products/matlab.html">  
