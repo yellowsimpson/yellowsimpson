@@ -64,7 +64,8 @@
   <a href="https://releases.ubuntu.com/?_ga=2.104906251.921670702.1610175351-5946633.1609902545">
      <img src="https://img.shields.io/badge/ubuntu-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white">
-  <img src="https://img.shields.io/badge/Fusion360-%23000000?style=for-the-badge&logo=autodesk">
+  <a href="https://www.autodesk.com/kr/products/fusion-360/personal">  
+     <img src="https://img.shields.io/badge/Fusion360-%23000000?style=for-the-badge&logo=autodesk">
 </div>
 <br/>
     </div>
