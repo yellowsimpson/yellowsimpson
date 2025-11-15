@@ -9,14 +9,12 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 
         
   # My Study Record
-  ## With Rust, Python, Arduino, ROS, And C/C++, etc
   ### I study computer programming in Kg Kairos
   ### Now, I'm study in XYZ kernel academy
 </div>
 <div align="center">
         
   ## 🌟Skills🌟
-
 <br/>
 
 ### IDE
@@ -31,14 +29,12 @@
     <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/></a>
 </div>
 
-### Python
+### Code
 <div align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-  <img src="https://img.shields.io/badge/openCV-11557c.svg?style=for-the-badge&logo=openCV&logoColor=white">
-  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow%20-%20FF6F00?style=for-the-badge&logo=tensorflow">
+  <img src="https://img.shields.io/badge/C%20-%20%23A8B9CC?style=for-the-badge&logo=C&logoColor=00599C">
+  <img src="https://img.shields.io/badge/C%2B%2B%20-%20%2300599C?style=for-the-badge&logo=C%2B%2B">  
 </div>
-<br/>
 
 ### OS
 <div>
@@ -58,8 +54,6 @@
      <img src="https://img.shields.io/badge/ROS 1,2-22314E?style=for-the-badge&logo=ROS&logoColor=white"></a>
   <a href="https://www.st.com/en/development-tools/stm32cubeide.html"> 
      <img src="https://img.shields.io/badge/STM32%20-%20%2303234B?style=for-the-badge&logo=stmicroelectronics"></a>
-  <img src="https://img.shields.io/badge/C%20-%20%23A8B9CC?style=for-the-badge&logo=C&logoColor=00599C">
-  <img src="https://img.shields.io/badge/C%2B%2B%20-%20%2300599C?style=for-the-badge&logo=C%2B%2B">
   <a href="https://www.arduino.cc/">
     <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a>
   <a href="https://www.raspberrypi.com/">
@@ -69,7 +63,6 @@
   <a href="https://developer.nvidia.com/cudnn-downloads">
     <img src="https://img.shields.io/badge/cuDNN-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/></a>
 </div>
-<br/>
 
 ### Record
 <div align="center">
@@ -83,13 +76,15 @@
     <img src="https://img.shields.io/badge/notion-%23000000?style=for-the-badge&logo=notion&logoColor=white"></a>
 </div>
 
-
 ### Others
 <div align="center">
   <a href="https://www.autodesk.com/kr/products/fusion-360/personal">  
      <img src="https://img.shields.io/badge/Fusion360-%23000000?style=for-the-badge&logo=autodesk"></a>
   <a href="https://www.mathworks.com/products/matlab.html">  
     <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/openCV-11557c.svg?style=for-the-badge&logo=openCV&logoColor=white">
+  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow%20-%20FF6F00?style=for-the-badge&logo=tensorflow">
   <a href="https://github.com/ultralytics/ultralytics">
     <img src="https://img.shields.io/badge/YOLO-111F68?style=flat-square&logo=yolo&logoColor=white"/></a>
 
