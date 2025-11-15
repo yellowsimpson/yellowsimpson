@@ -68,6 +68,8 @@
      <img src="https://img.shields.io/badge/Fusion360-%23000000?style=for-the-badge&logo=autodesk"></a>
   <a href="https://www.mathworks.com/products/matlab.html">  
     <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"></a>
+  <a href="https://github.com/ultralytics/ultralytics">
+    <img src="https://img.shields.io/badge/YOLO-111F68?style=flat-square&logo=yolo&logoColor=white"/></a>
 
 </div>
 <br/>
