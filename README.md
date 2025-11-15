@@ -19,7 +19,7 @@
 
 <br/>
 
-### About Python
+### Python
 <div align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
   <img src="https://img.shields.io/badge/openCV-11557c.svg?style=for-the-badge&logo=openCV&logoColor=white">
@@ -28,30 +28,31 @@
 </div>
 <br/>
 
-### About Embedded
+### Embedded
 <div align="center">
   <img src="https://img.shields.io/badge/ROS 1,2-22314E?style=for-the-badge&logo=ROS&logoColor=white">
   <img src="https://img.shields.io/badge/STM32%20-%20%2303234B?style=for-the-badge&logo=stmicroelectronics">
-  <img src="https://img.shields.io/badge/Arduino-00878F.svg?style=for-the-badge&logo=Arduino&logoColor=white">
   <img src="https://img.shields.io/badge/C%20-%20%23A8B9CC?style=for-the-badge&logo=C&logoColor=00599C">
   <img src="https://img.shields.io/badge/C%2B%2B%20-%20%2300599C?style=for-the-badge&logo=C%2B%2B">
+  <a href="https://www.arduino.cc/">
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a>
+  <a href="https://www.raspberrypi.com/">
+    <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry%20Pi&logoColor=white"/></a>  
+  <a href="https://developer.nvidia.com/cuda-downloads">
+    <img src="https://img.shields.io/badge/CUDA Toolkit-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/></a>
+  <a href="https://developer.nvidia.com/cudnn-downloads">
+    <img src="https://img.shields.io/badge/cuDNN-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/></a>
 </div>
 <br/>
 
 ### Record
 <div align="center">
-
   <a href="https://github.com/yellowsimpson">
-    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://huggingface.co/yellowsimpson">
-    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
-  </a>
-
+    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"></a>
   <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white">
   <img src="https://img.shields.io/badge/notion-%23000000?style=for-the-badge&logo=notion&logoColor=white">
-
 </div>
 
 
