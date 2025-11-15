@@ -31,7 +31,8 @@
 ### Embedded
 <div align="center">
   <img src="https://img.shields.io/badge/ROS 1,2-22314E?style=for-the-badge&logo=ROS&logoColor=white">
-  <img src="https://img.shields.io/badge/STM32%20-%20%2303234B?style=for-the-badge&logo=stmicroelectronics">
+  <a href="https://www.st.com/en/development-tools/stm32cubeide.html"> 
+     <img src="https://img.shields.io/badge/STM32%20-%20%2303234B?style=for-the-badge&logo=stmicroelectronics"></a>
   <img src="https://img.shields.io/badge/C%20-%20%23A8B9CC?style=for-the-badge&logo=C&logoColor=00599C">
   <img src="https://img.shields.io/badge/C%2B%2B%20-%20%2300599C?style=for-the-badge&logo=C%2B%2B">
   <a href="https://www.arduino.cc/">
