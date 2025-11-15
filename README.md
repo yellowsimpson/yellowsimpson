@@ -10,7 +10,7 @@
         
   # My Study Record
   ## With Rust, Python, Arduino, ROS, And C/C++, etc
-  ### I study computer programming in [Kg Kairos](https://kg-kairos.kr).
+  ### I study computer programming in Kg Kairos
   ### Now, I'm study in XYZ kernel academy
 </div>
 <div align="center">
@@ -18,6 +18,17 @@
   ## 🌟Skills🌟
 
 <br/>
+### IDE
+<div align="center">
+  <a href="https://code.visualstudio.com/">
+    <img width="16" height="16" alt="vscode-alt" src="https://github.com/user-attachments/assets/5f1260c8-9991-4c45-80e2-69551e3e0af1" /></a>
+  <a href="https://www.jetbrains.com/ko-kr/pycharm/">
+    <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>
+  <a href="https://www.jetbrains.com/ko-kr/clion/">
+    <img src="https://img.shields.io/badge/CLion-000000?style=flat-square&logo=clion&logoColor=white"/></a>
+  <a href="https://developer.android.com/studio">
+    <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/></a>
+</div>
 
 ### Python
 <div align="center">
