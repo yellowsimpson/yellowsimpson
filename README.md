@@ -47,7 +47,7 @@
 
 ### Record
 <div align="center">
-  <a href="https://github.com/yellowsimpson">
+  <a href="https://github.com/yellowsimpson?tab=repositories">
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://huggingface.co/yellowsimpson">
     <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"></a>
