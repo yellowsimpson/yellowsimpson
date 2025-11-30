@@ -17,9 +17,6 @@
 
 <div align="center">
         
-  ## 🌟Skills🌟
-  <br/>
-
 ## 🌟 Skills 🌟
 
 | Category | Tools |
